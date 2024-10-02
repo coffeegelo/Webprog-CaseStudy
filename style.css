@@ -379,10 +379,11 @@ color: #fff;
     margin: 0;
 }
 .subTitle{
-    color: #4e4e4e;
-    font-size: 1.2rem;
+    color: #2a2a2a;
+    font-size: 1.1rem;
     margin: 0;
-    font-weight: 100px;
+    font-style: italic;
+    font-weight: 300;
 }
 
 .boxLastBot {
@@ -398,40 +399,45 @@ color: #fff;
 }
 
 .texttitle {
-    color: red;
+    color: maroon;
     font-size: 15px;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     margin: 0px;
+    margin-top: 6px;
     width: 150px;
     height: 20px;
+    font-weight: bolder;
 }
 
 .texttitle2 {
-    color: red;
+    color: maroon;
     font-size: 15px;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 400;
     margin: 0px;
+    margin-top: 6px;
     width: 150px;
     height: 20px;
+    font-weight: bolder;
 }
 
 .readers {
-    color: black;
+    color: #2a2a2a;
     font-size: 15px;
     font-style: normal;
-    font-weight: 200;
+    font-weight: 300;
     margin-top: 0px;
     width: 150px;
     height: 20px;
 }
 
+
 .readers2 {
-    color: black;
+    color: #2a2a2a;
     font-size: 15px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     margin-top: 0px;
     width: 150px;
     height: 20px;
@@ -604,4 +610,3 @@ color: #fff;
      100%{ position: relative; display: none;
      }
 }
-
