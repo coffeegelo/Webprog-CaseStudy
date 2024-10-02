@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: 'montserrat', sans-serif;
 }
 body{
     background-color: white;
@@ -382,6 +382,7 @@ color: #fff;
     color: #4e4e4e;
     font-size: 1.2rem;
     margin: 0;
+    font-weight: 100px;
 }
 
 .boxLastBot {
@@ -397,42 +398,37 @@ color: #fff;
 }
 
 .texttitle {
-    color: maroon;
+    color: red;
     font-size: 15px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     margin: 0px;
-    margin-top: 6px;
     width: 150px;
     height: 20px;
-    font-weight: bolder;
 }
 
 .texttitle2 {
-    color: maroon;
+    color: red;
     font-size: 15px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 800;
     margin: 0px;
-    margin-top: 6px;
     width: 150px;
     height: 20px;
-    font-weight: bolder;
 }
 
 .readers {
-    color: #2a2a2a;
+    color: black;
     font-size: 15px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 200;
     margin-top: 0px;
     width: 150px;
     height: 20px;
-    font-weight: lighter;
 }
 
 .readers2 {
-    color: #2a2a2a;
+    color: black;
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
@@ -440,7 +436,6 @@ color: #fff;
     width: 150px;
     height: 20px;
     transform: translateY(17px);
-    font-weight: lighter;
 }
 
 .textbelow {
